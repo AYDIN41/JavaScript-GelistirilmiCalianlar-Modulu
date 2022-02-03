@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "Nurgül Aydın",
+      "department": "Ev Hanımı",
+      "salary": 601,
+      "id": 1
+    },
+    {
+      "name": "Emirhan Aydın",
+      "department": "Yönetim Bilişim Sistemleri",
+      "salary": 200,
+      "id": 2
+    },
+    {
+      "name": "Kemal Kargı",
+      "department": "Sağlık",
+      "salary": 4500,
+      "id": 3
+    }
+  ]
+}
